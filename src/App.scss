@@ -1,0 +1,11 @@
+@import 'styles';
+
+.fake-store {
+  &__header {
+    background: white;
+    padding: 1rem 0.5rem;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    border-bottom: 1px solid rgba(black, 0.5);
+  }
+}

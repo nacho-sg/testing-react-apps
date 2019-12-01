@@ -1,1 +1,1 @@
-# testing-react-apps
+# Testing React Apps (PosaDev 2019)

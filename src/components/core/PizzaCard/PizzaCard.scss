@@ -1,0 +1,14 @@
+.pizza-card {
+  padding: 1rem;
+  background-color: white;
+  border: 1px solid #eee;
+  max-width: 5em;
+  text-align: center;
+  margin: 0.5rem;
+  border-radius: 0.2rem;
+  display: inline-block;
+
+  svg {
+    width: 2rem;
+  }
+}

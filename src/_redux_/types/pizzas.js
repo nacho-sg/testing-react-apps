@@ -1,0 +1,1 @@
+export const GET_PIZZA_TYPES = 'GET_PIZZA_TYPES';
